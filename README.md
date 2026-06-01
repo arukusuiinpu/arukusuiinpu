@@ -15,7 +15,6 @@ Regardless of that you can always see complex systems fascinating me in one way 
 
 #### Feel free to contribute to any of my projects!
 
-https://personal.arukusu.netcraze.link/calendar
 ![](https://personal.arukusu.netcraze.link/calendar)
 
 <!--
