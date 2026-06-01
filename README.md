@@ -14,6 +14,9 @@ Regardless of that you can always see complex systems fascinating me in one way 
 - Looking forward to learning Assembler and the caveats of low-level code
 
 #### Feel free to contribute to any of my projects!
+
+![Duolingo Calendar](https://personal.arukusu.netcraze.link/calendar/)
+
 <!--
 Leaving this for comedic effect, also haaaii to people who check these sources! Good job on looking at something most people miss
 
