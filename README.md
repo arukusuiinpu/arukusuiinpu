@@ -3,9 +3,9 @@
 
 ### I'm arukusuiinpu/norivensuu
 
-I'm  a small independent dev from Russia, participating in whatever project I find endearing enough to spill my endless curiousity into. Mostly that consists of personal projects or experiments that is...
+I'm  a small independent dev from Russia, participating in whatever project I find endearing enough to spill my endless curiousity into. Even if that mostly consists of personal projects or experiments currently...
 
-Regardless of that you can always see complex systems fascinating me in one way or another, be it a 3D engine made completely in glsl, or the whole deal with the modding mixin architecture :3
+Regardless of that you can always see complex systems fascinating me in one way or another, be it a 3D engine made completely in glsl, or any fancy modding or versioning architecture :3
 
 ## Some additional info:
 - Currently planning to admit to a university
@@ -16,8 +16,8 @@ Regardless of that you can always see complex systems fascinating me in one way 
 #### Feel free to contribute to any of my projects!
 
 
-![](https://personal.arukusu.netcraze.link/calendar/)<br /> <!-- This link is dynamic btw, feel free to add your duolingo username after the /calendar/ part (Ex. https://personal.arukusu.netcraze.link/calendar/arukusuiinpu) -->
-(Yes, this is my actual duolingo calendar, and you can have one too! Open this README.md to find more)
+![](https://personal.arukusu.netcraze.link/calendar/)<br /> <!-- This link is dynamic, feel free to add your duolingo username after the /calendar/ part (Ex. https://personal.arukusu.netcraze.link/calendar/arukusuiinpu) -->
+(Yes, this is my actual duolingo calendar, and you can have one too! Open this README.md to learn more)
 
 <!--
 Leaving this for comedic effect, also haaaii to people who check these sources! Good job on looking at something most people miss
