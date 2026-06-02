@@ -16,7 +16,7 @@ Regardless of that you can always see complex systems fascinating me in one way 
 #### Feel free to contribute to any of my projects!
 
 
-![](https://personal.arukusu.netcraze.link/calendar/)<br />
+![](https://personal.arukusu.netcraze.link/calendar/)<br /> <!-- This link is dynamic btw, feel free to add your duolingo username after the /calendar/ part (Ex. https://personal.arukusu.netcraze.link/calendar/arukusuiinpu) -->
 (Yes, this is my actual duolingo calendar)
 
 <!--
