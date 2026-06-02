@@ -17,7 +17,7 @@ Regardless of that you can always see complex systems fascinating me in one way 
 
 
 ![](https://personal.arukusu.netcraze.link/calendar/)<br /> <!-- This link is dynamic btw, feel free to add your duolingo username after the /calendar/ part (Ex. https://personal.arukusu.netcraze.link/calendar/arukusuiinpu) -->
-(Yes, this is my actual duolingo calendar)
+(Yes, this is my actual duolingo calendar, and you can have one too! Open this README.md to find more)
 
 <!--
 Leaving this for comedic effect, also haaaii to people who check these sources! Good job on looking at something most people miss
