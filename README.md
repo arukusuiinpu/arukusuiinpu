@@ -11,7 +11,7 @@ Regardless of that you can always see complex systems fascinating me in one way 
 - Currently planning to admit to a university
 - So far covered C#, Python and Java on a level deep enough to consider adding them to this list in the first place
 - Looking forward to collaborations, my personal programming style might be a bit chaotic, but I'm willing to learn to produce collaborative code
-- Looking forward to learning Assembler and the caveats of low-level code
+- Want to learn Assembly and the caveats of low-level code
 
 #### Feel free to contribute to any of my projects!
 
