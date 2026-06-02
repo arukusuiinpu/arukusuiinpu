@@ -15,8 +15,9 @@ Regardless of that you can always see complex systems fascinating me in one way 
 
 #### Feel free to contribute to any of my projects!
 
-My actual Duolingo Calendar :>
-![](https://personal.arukusu.netcraze.link/calendar/)
+
+![](https://personal.arukusu.netcraze.link/calendar/)<br />
+(Yes, this is my actual duolingo calendar)
 
 <!--
 Leaving this for comedic effect, also haaaii to people who check these sources! Good job on looking at something most people miss
