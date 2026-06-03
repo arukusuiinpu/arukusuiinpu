@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=arukusuiinpu)
+<!-- ![](https://komarev.com/ghpvc/?username=arukusuiinpu) -->
 # Haiiii 👋👋👋
 
 ### I'm arukusuiinpu/norivensuu
