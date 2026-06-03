@@ -23,6 +23,8 @@ Regardless of that you can always see complex systems fascinating me in one way 
 
 (Yes, this is my actual duolingo calendar, and you can have one too! Open this README.md to learn more)
 
+#### Also yes, I don't like pre-existing customization and would like to encourage you to build more creative stuff like the Duolingo calendar on your own!
+
 <!--
 Leaving this for comedic effect, also haaaii to people who check these sources! Good job on looking at something most people miss
 
