@@ -14,9 +14,9 @@ Regardless of that you can always see complex systems fascinating me in one way 
 
 #### Feel free to contribute to any of my projects!
 
-![](https://personal.arukusu.netcraze.link/calendar/)<br /> <!-- This link is dynamic, feel free to add your Duolingo username after the /calendar/ part (Ex. https://personal.arukusu.netcraze.link/calendar/arukusuiinpu) -->
+![](https://personal.arukusu.netcraze.link/duolingo_calendar/)<br /> <!-- This link is dynamic, feel free to add your Duolingo username after the /duolingo_calendar/ part (Ex. https://personal.arukusu.netcraze.link/duolingo_calendar/arukusuiinpu) -->
 
-<!-- Also, if you want to view older statistics, add ?today=(iso date format) to the url to get the calendar for that date (Ex. https://personal.arukusu.netcraze.link/calendar/arukusuiinpu?today=2025-03-01) -->
+<!-- Also, if you want to view older statistics, add ?today=(iso date format) to the url to get the calendar for that date (Ex. https://personal.arukusu.netcraze.link/duolingo_calendar/arukusuiinpu?today=2025-03-01) -->
 
 <!-- I've spent like an entire day hunting for the endpoint of all of your xp gains ever. Did you know that official Duolingo api at the /users/ or the /2017-06-30/users/ endpoints exposes your calendar only up to a week? I wish it didn't. So anyway, for anybody curious, the actual xp gains history endpoint is https://www.duolingo.com/2023-05-23/users/{id}/xp_summaries?startDate={year_ago.isoformat()}, andd your user id you can find at the regular endpoint (https://www.duolingo.com/users/{username}). -->
 
