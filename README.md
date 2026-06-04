@@ -1,8 +1,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=arukusuiinpu) -->
 # Haiiii 👋👋👋
 
-### I'm arukusuiinpu/norivensuu
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=000000&random=true&width=435&lines=I'm+arukusuiinpu%2Fnorivensuu)](https://git.io/typing-svg)<br />
 I'm  a small independent dev from Russia, participating in whatever project I find endearing enough to spill my endless curiousity into. Even if that mostly consists of personal projects or experiments currently...
 
 Regardless of that you can always see complex systems fascinating me in one way or another, be it a 3D engine made completely in glsl, or any fancy modding or versioning architecture :3
@@ -23,7 +22,7 @@ Regardless of that you can always see complex systems fascinating me in one way 
 
 (Yes, this is my actual duolingo calendar, and you can have one too! Open this README.md to learn more)
 
-#### Also yes, I don't like pre-existing customization and would like to encourage you to build more creative stuff like the Duolingo calendar on your own!
+#### Also yes, I don't like pre-existing customization that much (even if it is absolutely incredible) and would like to encourage you to build more creative stuff like the Duolingo calendar on your own!
 
 <!--
 Leaving this for comedic effect, also haaaii to people who check these sources! Good job on looking at something most people miss
