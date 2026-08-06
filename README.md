@@ -2,7 +2,7 @@
 # Haiiii 👋👋👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=000000&random=true&width=435&lines=I'm+arukusuiinpu%2Fnorivensuu)](https://git.io/typing-svg)<br />
-I'm  a small independent dev from Russia, participating in whatever project I find endearing enough to spill my endless curiousity into. Even if that mostly consists of personal projects or experiments currently...
+I'm a small independent dev from Russia, participating in whatever project I find endearing enough to spill my endless curiousity into. Even if that mostly consists of personal projects or experiments currently...
 
 Regardless of that you can always see complex systems fascinating me in one way or another, be it a 3D engine made completely in glsl, or any fancy modding or versioning architecture :3
 
@@ -10,6 +10,8 @@ Regardless of that you can always see complex systems fascinating me in one way 
 - Moscow Aviation Institute (MAI) for biotechnical systems and technology admittee!
 - So far covered C#, Python and Java on a level deep enough to consider adding them to this list in the first place
 - Looking forward to collaborations, my personal programming style might be a bit chaotic, but I'm willing to learn to produce collaborative code
+- Wanna learn R in the near future
+- Want to build a hybrid shader language (tighter integration between GPU code and CPU code, maybe even with the support of coding both sides in the same script)
 - Want to learn Assembly and the caveats of low-level code
 
 #### Feel free to contribute to any of my projects!
