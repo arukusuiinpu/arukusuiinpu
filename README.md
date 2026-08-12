@@ -7,7 +7,7 @@ I'm a small independent dev from Russia, participating in whatever project I fin
 Regardless of that you can always see complex systems fascinating me in one way or another, be it a 3D engine made completely in glsl, or any fancy modding or versioning architecture :3
 
 ## Some additional info:
-- Moscow Aviation Institute (MAI) for biotechnical systems and technology admittee!
+- Moscow Aviation Institute (MAI) for biotechnical systems and technology student!
 - So far covered C#, Python and Java on a level deep enough to consider adding them to this list in the first place
 - Looking forward to collaborations, my personal programming style might be a bit chaotic, but I'm willing to learn to produce collaborative code
 - Wanna learn R in the near future
