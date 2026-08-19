@@ -8,7 +8,7 @@ Regardless of that you can always see complex systems fascinating me in one way 
 
 ## Some additional info:
 - Moscow Aviation Institute (MAI) for biotechnical systems and technology student!
-- So far covered C#, Python and Java on a level deep enough to consider adding them to this list in the first place
+- C#, Python and Java current stack
 - Looking forward to collaborations, my personal programming style might be a bit chaotic, but I'm willing to learn to produce collaborative code
 - Wanna learn R in the near future
 - Want to build a hybrid shader language (tighter integration between GPU code and CPU code, maybe even with the support of coding both sides in the same script)
