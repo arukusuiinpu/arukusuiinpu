@@ -7,10 +7,10 @@ I'm a small independent dev from Russia, participating in whatever project I fin
 Regardless of that you can always see complex systems fascinating me in one way or another, be it a 3D engine made completely in glsl, or any fancy modding or versioning architecture :3
 
 ## Some additional info:
-- Moscow Aviation Institute (MAI) for biotechnical systems and technology student!
+- Moscow Aviation Institute (MAI) biotechnical systems and technology student!
 - C#, Python and Java current stack
 - Looking forward to collaborations, my personal programming style might be a bit chaotic, but I'm willing to learn to produce collaborative code
-- Wanna learn R in the near future
+- Want to learn R in the near future
 - Want to build a hybrid shader language (tighter integration between GPU code and CPU code, maybe even with the support of coding both sides in the same script)
 - Want to learn Assembly and the caveats of low-level code
 
