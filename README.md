@@ -12,6 +12,7 @@ Regardless of that you can always see complex systems fascinating me in one way 
 - Looking forward to collaborations, my personal programming style might be a bit chaotic, but I'm willing to learn to produce collaborative code
 - Want to learn R in the near future
 - Want to build a hybrid shader language (tighter integration between GPU code and CPU code, maybe even with the support of coding both sides in the same script)
+- Want to make an EVEN MORE SCRIPT-HEAVY and compact Python
 - Want to learn Assembly and the caveats of low-level code
 
 #### Feel free to contribute to any of my projects!
