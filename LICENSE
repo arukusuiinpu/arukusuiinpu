@@ -1,6 +1,12 @@
-Apache NON-AI License, Version 2.0
+Apache NON-AI* License, Version 2.0
+    *arukusuiinpu extended modification
+    (Changed terms on which permission of usage of this Work in AI training will be granted through request)
 
 Copyright (c) 2026 arukusuiinpu
+
+Original Apache NON-AI License, Version 2.0 copy obtained at
+    
+    https://github.com/non-ai-licenses/non-ai-licenses
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -42,6 +48,8 @@ in writing by the copyright owner as “Not a Contribution.”
 “Contributor” shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and
 subsequently incorporated within the Work.
 
+“Individual” shall mean Licensor and any individual or Legal Entity.
+
 2. Grant of Copyright License.
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive,
@@ -50,10 +58,23 @@ sublicense, and distribute the Work and such Derivative Works in Source or Objec
 under the following conditions:
 
   2.1. You shall not use the Covered Software in the creation of an Artificial Intelligence training dataset,
+  including but not limited to any use that contributes to the training or development of an AI model or algorithm, which would contain:
+    
+    2.1.1. Private (or publicly unavailable) data without explicit permission from Individuals, from whom the original data was taken from; and
+    
+    2.1.2. Publicly available data (that holds any kind of authorship relationship over said data) without explicit permission from Individuals,
+    from whom the original data was taken from.
+  
+  2.2. You shall not use the Covered Software in the creation of an Artificial Intelligence training dataset,
   including but not limited to any use that contributes to the training or development of an AI model or algorithm,
-  unless You obtain explicit written permission from the Contributor to do so.
+  unless You obtain explicit written permission from the Contributor to do so, which would not contain:
+    
+    2.2.1. Private (or publicly unavailable) data without explicit permission from Individuals, from whom the original data was taken from; and
+    
+    2.2.2. Publicly available data (that holds any kind of authorship relationship over said data) without explicit permission from Individuals,
+    from whom the original data was taken from.
 
-  2.2. You acknowledge that the Covered Software is not intended for use in the creation of an Artificial Intelligence training dataset,
+  2.3. You acknowledge that the Covered Software is not intended for use in the creation of an Artificial Intelligence training dataset,
   and that the Contributor has no obligation to provide support or assistance for any use that violates this license.
 
 3. Grant of Patent License.
