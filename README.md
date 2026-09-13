@@ -1,5 +1,5 @@
 <!-- ![](https://komarev.com/ghpvc/?username=arukusuiinpu) -->
-![https://github.com/non-ai-licenses/non-ai-licenses](https://img.shields.io/badge/License-Apache_2.0*_No_AI-yellow)
+[![License: Apache 2.0* No AI](https://img.shields.io/badge/License-Apache_2.0*_No_AI-yellow)](https://github.com/non-ai-licenses/non-ai-licenses)
 # Haiiii 👋👋👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=000000&random=true&width=435&lines=I'm+arukusuiinpu%2Fnorivensuu)](https://git.io/typing-svg)<br />
