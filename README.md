@@ -11,7 +11,7 @@ Regardless of that you can always see complex systems fascinating me in one way 
 - Moscow Aviation Institute (MAI) biotechnical systems and technology student!
 - C#, Python and Java current stack
 - Looking forward to collaborations, my personal programming style might be a bit chaotic, but I'm willing to learn to produce collaborative code
-- Interested in System design
+- Interested in Systems design
 - Want to learn R eventually
 - Want to learn Assembly and the caveats of low-level code
 
